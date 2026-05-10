@@ -1,6 +1,8 @@
 # Heliconius-Wing-Phenotypic-Tree
 Butterfly wing spatial patterns singals builded phenotypic tree compare to genome phylogeny.
 
+Manuscript: [https://doi.org/10.13140/RG.2.2.33621.79843](https://doi.org/10.13140/RG.2.2.33621.79843).  
+
 ## Overview
 
 This project explores phenotypic similarity and convergence in Heliconius butterflies using quantitative wing-pattern data. The notebook constructs a phenotypic distance matrix from wing traits or extracted image features and builds a tree representing morphological similarity among taxa.
