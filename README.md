@@ -9,6 +9,8 @@ The project is motivated by the evolutionary biology of Müllerian mimicry, wher
 
 Rather than reconstructing a genomic phylogeny, this analysis investigates whether phenotypic similarity itself forms structured clusters reflecting mimicry, convergence, and adaptive radiation.
 
+Analysis images are from : “Diversité Des Heliconius.” n.d. Accessed April 19, 2026. [https://www.cliniquevetodax.com/Heliconius/](https://www.cliniquevetodax.com/Heliconius/).
+
 ## Scientific Question
 
 This project asks:
@@ -71,7 +73,21 @@ Heliconius butterflies are a classic model system for:
 
 Wing coloration is controlled by a relatively small set of major-effect loci, while ecological selection strongly favors convergence between co-mimics.
 
+## Result
+
+Compare to Cicconardi et al. (2023) genomic phylogenetic tree. 
+
+![1. Comparaison to genomic tree.](/Heliconius_pheno_genome_comparaison_tree.PNG)
+
+Compare to introgression events.
+![2.](/Heliconius_pheno_introgression_comparaison_tree.PNG)
+
+
 ## References
+
+“Diversité Des Heliconius.” n.d. Accessed April 19, 2026. [https://www.cliniquevetodax.com/Heliconius/](https://www.cliniquevetodax.com/Heliconius/).
+
+Cicconardi, F., Milanetti, E., Pinheiro de Castro, E.C. et al. Evolutionary dynamics of genome size and content during the adaptive radiation of Heliconiini butterflies. Nat Commun 14, 5620 (2023). [https://doi.org/10.1038/s41467-023-41412-5](https://doi.org/10.1038/s41467-023-41412-5)
 
 Hanly, Joseph J., Richard W. R. Wallbank, W. Owen McMillan, and Chris D. Jiggins. 2019. “Conservation and Flexibility in the Gene Regulatory Landscape of Heliconiine Butterfly Wings.” EvoDevo 10 (15). [https://doi.org/10.1186/s13227-019-0127-4.](https://doi.org/10.1186/s13227-019-0127-4)
 
